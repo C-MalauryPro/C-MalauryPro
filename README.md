@@ -30,7 +30,7 @@ I am a **Fullstack Developer**, **Analyst**, and **Content Creator**. Passionate
   <img src="https://img.shields.io/badge/Windows-%23008A8C?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
-## 🔥 Currently Working On:
+## 🎯 Currently Working On:
 - **Machine Learning** 🤖  
   <img src="https://img.shields.io/badge/Machine%20Learning-%23007acc?style=flat-square&logo=python&logoColor=white" alt="Machine Learning" />
 - **DevOps** 🛠️  
