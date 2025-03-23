@@ -1,6 +1,5 @@
 # 👋 Welcome to my GitHub!
 
-![Welcome Badge](https://img.shields.io/badge/Welcom%20to%20My%20GitHub-%F0%9F%91%8B-blue)
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
 
@@ -36,6 +35,7 @@ I am a **Fullstack Developer**, **Analyst**, and **Content Creator**. Passionate
   <img src="https://img.shields.io/badge/Machine%20Learning-%23007acc?style=flat-square&logo=python&logoColor=white" alt="Machine Learning" />
 - **DevOps** 🛠️  
   <img src="https://img.shields.io/badge/DevOps-%236e7e96?style=flat-square&logo=jenkins&logoColor=white" alt="DevOps" />
+- 🟩 Fullstack Project in Java ![Java](https://img.shields.io/badge/Java-%23f8981d?style=flat-square&logo=java&logoColor=white)
 
 ## 🚴‍♂️ Sport and Cycling
 
