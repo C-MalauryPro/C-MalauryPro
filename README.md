@@ -35,7 +35,8 @@ I am a **Fullstack Developer**, **Analyst**, and **Content Creator**. Passionate
   <img src="https://img.shields.io/badge/Machine%20Learning-%23007acc?style=flat-square&logo=python&logoColor=white" alt="Machine Learning" />
 - **DevOps** 🛠️  
   <img src="https://img.shields.io/badge/DevOps-%236e7e96?style=flat-square&logo=jenkins&logoColor=white" alt="DevOps" />
-- 🟩 Fullstack Project in Java ![Java](https://img.shields.io/badge/Java-%23f8981d?style=flat-square&logo=java&logoColor=white)
+- **Fullstack Project in Java ** ☕️
+ <img src="https://img.shields.io/badge/Java-%23f8981d?style=flat-square&logo=java&logoColor=white" alt="Java" />
 
 ## 🚴‍♂️ Sport and Cycling
 
