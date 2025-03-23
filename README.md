@@ -42,13 +42,22 @@ I am a **Fullstack Developer**, **Analyst**, and **Content Creator**. Passionate
 
 I'm passionate about **cycling**, and I enjoy incorporating it into my daily routine for fitness and relaxation. Always looking for new challenges!
 
-## 📫 Contact
+
+## 🌐 My Blog (Coming Soon)
+
+I will soon be sharing my thoughts, technical articles, and educational content on my blog:  
+[Replay Jonesy](https://github.io.replayjonesy) (Coming Soon)
+
+## 🐦 Social Links
 
 Feel free to reach out to me via the following channels:
 
 - ![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=flat-square&logo=gmail&logoColor=white) [cmalaurypro@gmail.com](mailto:cmalaurypro[at]gmail.com)
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white) [LinkedIn Profile](#) *(Available upon request)*
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white) [GitHub Profile](https://github.com/C-MalauryPro)
+
+- !
+[Mastodon](https://mastodon.social/@ReplayJonesy) ![Mastodon Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Mastodon_logo.svg)
 
 ---
 
