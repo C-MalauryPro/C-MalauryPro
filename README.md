@@ -56,7 +56,7 @@ Feel free to reach out to me via the following channels:
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white) [LinkedIn Profile](#) *(Available upon request)*
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white) [GitHub Profile](https://github.com/C-MalauryPro)
 - !
-![Mastodon Badge](https://img.shields.io/badge/Mastodon-@tonprofil-blue?style=flat-square&logo=mastodon) [Mastodon](https://mastodon.social/@ReplayJonesy) 
+[Mastodon Badge](https://img.shields.io/badge/Mastodon-@ReplayJonesy-blue?style=flat-square&logo=mastodon) [Mastodon](https://mastodon.social/@ReplayJonesy) 
 
 ---
 
