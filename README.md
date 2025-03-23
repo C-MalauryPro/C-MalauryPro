@@ -3,9 +3,7 @@
 ![Welcome Badge](https://img.shields.io/badge/Welcom%20to%20My%20GitHub-%F0%9F%91%8B-blue)
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername?style=social)
-![GitHub contributions](https://img.shields.io/github/commit-activity/m/yourusername?style=plastic)
-![GitHub issues](https://img.shields.io/github/issues/yourusername?style=plastic)
+
 
 ## 💼 About Me
 
