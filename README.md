@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub !
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=0A66C2&vCenter=true&width=600&lines=Hello,+Welcome+to+my+GitHub!;Currently+working+on+CI+and+Fullstack+Development)](https://git.io/typing-svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
