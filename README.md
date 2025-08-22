@@ -40,7 +40,6 @@ It also serves as my personal portfolio where I apply the latest technologies an
 ## 🚴‍♂️ Sport and Cycling
 
 I'm passionate about **cycling**, and I enjoy incorporating it into my daily routine for fitness and relaxation. 
-Always looking for new challenges!
 
 ## 📫 Contact
 
