@@ -6,7 +6,10 @@
 
 ## 💼 About Me
 
-I am a **Fullstack Developer**, **Analyst**, and **Content Creator**. Passionate about creating innovative solutions and always eager to learn new things. This GitHub serves as my personal portfolio where I apply the latest technologies and document my development journey.
+**Fullstack Developer • Analyst**
+
+This GitHub is my playground to experiment, explore ideas, and learn by building projects.  
+It also serves as my personal portfolio where I apply the latest technologies and document my development journey.
 
 ## 🛠️ Technical Stack:
 <p>
