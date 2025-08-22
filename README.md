@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=0A66C2&vCenter=true&width=600&lines=👋Hello,+Welcome+to+my+GitHub!;🔧Currently+working+on+CI+and+Fullstack+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=1E90FF&vCenter=true&width=760&lines=🌞+Hello,+Welcome+to+my+GitHub!;🔧+Currently+working+on:;🚀+Fullstack+Projects+🌟+Debian)](https://git.io/typing-svg)
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
@@ -6,7 +6,10 @@
 
 ## 💼 About Me
 
-I am a **Fullstack Developer**, **Analyst**, and **Content Creator**. Passionate about creating innovative solutions and always eager to learn new things. This GitHub serves as my personal portfolio where I apply the latest technologies and document my development journey.
+**Fullstack Developer • Analyst**
+
+This GitHub is my playground to experiment, explore ideas and learn by building projects.  
+It also serves as my personal portfolio where I apply the latest technologies and document my development journey.
 
 ## 🛠️ Technical Stack:
 <p>
@@ -31,16 +34,12 @@ I am a **Fullstack Developer**, **Analyst**, and **Content Creator**. Passionate
 </p>
 
 ## 🎯 Currently Working On:
-- **Machine Learning** 🤖  
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23007acc?style=flat-square&logo=python&logoColor=white" alt="Machine Learning" />
-- **DevOps** 🛠️  
-  <img src="https://img.shields.io/badge/DevOps-%236e7e96?style=flat-square&logo=jenkins&logoColor=white" alt="DevOps" />
 - **Fullstack Project** ☕️
   <img src="https://img.shields.io/badge/Java-%23f8981d?style=flat-square&logo=java&logoColor=white" alt="Java" />
 
 ## 🚴‍♂️ Sport and Cycling
 
-I'm passionate about **cycling**, and I enjoy incorporating it into my daily routine for fitness and relaxation. Always looking for new challenges!
+I'm passionate about **cycling**, and I enjoy incorporating it into my daily routine for fitness and relaxation. 
 
 ## 📫 Contact
 
