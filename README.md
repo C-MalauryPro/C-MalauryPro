@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=1E90FF&vCenter=true&width=760&lines=🌞+Hello,+Welcome+to+my+GitHub!;🔧+Currently+working+on:;🚀+Fullstack+Projects+🌟+Debian)](https://git.io/typing-svg)
-
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=1E90FF&vCenter=true&width=760&lines=🌞+Hello,+Welcome+to+my+GitHub!;🔧+Currently+working+on:;🚀+Fullstack+Projects+🌟+Debian+🌌+Astro)](https://git.io/typing-svg)
 
 ## 💼 About Me
 
@@ -34,7 +30,7 @@ It also serves as my personal portfolio where I apply the latest technologies an
 </p>
 
 ## 🎯 Currently Working On:
-- **Fullstack Project** ☕️
+- **Fullstack Projects** ☕️
   <img src="https://img.shields.io/badge/Java-%23f8981d?style=flat-square&logo=java&logoColor=white" alt="Java" />
 
 ## 🚴‍♂️ Sport and Cycling
@@ -45,9 +41,11 @@ I'm passionate about **cycling**, and I enjoy incorporating it into my daily rou
 
 Feel free to reach out to me via the following channels:
 
-- ![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=flat-square&logo=gmail&logoColor=white) [cmalaurypro@gmail.com](mailto:cmalaurypro[at]gmail.com)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white) [LinkedIn Profile](#) *(Available upon request)*
-- ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white) [GitHub Profile](https://github.com/C-MalauryPro)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:cmalaurypro[at]gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](#) *(Available upon request)*
+[![GitLab](https://img.shields.io/badge/GitLab-FF6C37?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/C-MalauryPro)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/C-MalauryPro)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@ReplayJonesy-blue?style=flat-square&logo=mastodon)](https://mastodon.social/@ReplayJonesy) 
 
 ---
 
