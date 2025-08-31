@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=1E90FF&vCenter=true&width=760&lines=🌞+Hello,+Welcome+to+my+GitHub!;🔧+Currently+working+on:;🚀+Fullstack+Projects+🌟+Debian)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=1E90FF&vCenter=true&width=760&lines=🌞+Hello,+Welcome+to+my+GitHub!;🔧+Currently+working+on:;🚀+Fullstack+Projects+🌟+Debian+🌌Astro)](https://git.io/typing-svg)
 
 ## 💼 About Me
 
@@ -30,7 +30,7 @@ It also serves as my personal portfolio where I apply the latest technologies an
 </p>
 
 ## 🎯 Currently Working On:
-- **Fullstack Project** ☕️
+- **Fullstack Projects** ☕️
   <img src="https://img.shields.io/badge/Java-%23f8981d?style=flat-square&logo=java&logoColor=white" alt="Java" />
 
 ## 🚴‍♂️ Sport and Cycling
@@ -45,6 +45,7 @@ Feel free to reach out to me via the following channels:
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white) [LinkedIn Profile](#) *(Available upon request)*
 - [![GitLab](https://img.shields.io/badge/GitLab-FF6C37?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/C-MalauryPro)
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white) [GitHub Profile](https://github.com/C-MalauryPro)
+- ![Mastodon Badge](https://img.shields.io/badge/Mastodon-@ReplayJonesy-blue?style=flat-square&logo=mastodon) [Mastodon](https://mastodon.social/@ReplayJonesy) 
 
 ---
 
