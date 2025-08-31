@@ -41,11 +41,13 @@ I'm passionate about **cycling**, and I enjoy incorporating it into my daily rou
 
 Feel free to reach out to me via the following channels:
 
-- ![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=flat-square&logo=gmail&logoColor=white) [cmalaurypro@gmail.com](mailto:cmalaurypro[at]gmail.com)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white) [LinkedIn Profile](#) *(Available upon request)*
+-
+[![Gmail](https://img.shields.io/badge/Gmail-%23D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:cmalaurypro[at]gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](#) *(Available upon request)*
 - [![GitLab](https://img.shields.io/badge/GitLab-FF6C37?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/C-MalauryPro)
 - [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/C-MalauryPro)
-- ![Mastodon Badge](https://img.shields.io/badge/Mastodon-@ReplayJonesy-blue?style=flat-square&logo=mastodon) [Mastodon](https://mastodon.social/@ReplayJonesy) 
+- 
+[![Mastodon](https://img.shields.io/badge/Mastodon-@ReplayJonesy-blue?style=flat-square&logo=mastodon)](https://mastodon.social/@ReplayJonesy) 
 
 ---
 
