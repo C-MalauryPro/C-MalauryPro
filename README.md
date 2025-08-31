@@ -29,10 +29,6 @@ It also serves as my personal portfolio where I apply the latest technologies an
   <img src="https://img.shields.io/badge/Windows-%23008A8C?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
-## 🎯 Currently Working On:
-- **Fullstack Projects** ☕️
-  <img src="https://img.shields.io/badge/Java-%23f8981d?style=flat-square&logo=java&logoColor=white" alt="Java" />
-
 ## 🚴‍♂️ Sport and Cycling
 
 I'm passionate about **cycling**, and I enjoy incorporating it into my daily routine for fitness and relaxation. 
